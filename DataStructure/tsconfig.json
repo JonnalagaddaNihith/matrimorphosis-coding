@@ -5,5 +5,5 @@
         "module": "commonjs",
         "strict": true
     },
-        "files": ["Queue.ts"],
+        "files": ["Queue.ts", "Map.ts", "homework.ts"],
 }
